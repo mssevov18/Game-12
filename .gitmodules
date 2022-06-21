@@ -1,0 +1,6 @@
+[submodule "Game-12-Library"]
+	path = Game-12-Library
+	url = https://github.com/mssevov18/Game-12-Library
+[submodule "Game-12-Application"]
+	path = Game-12-Application
+	url = https://github.com/mssevov18/Game-12-Application
